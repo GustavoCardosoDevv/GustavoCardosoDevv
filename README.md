@@ -1,4 +1,4 @@
 - 👋 Olá, meu nome é Gustavo Cardoso, tenho 19 anos e sou residente da cidade de Maranguape-CE.
 - 👀 Atualmente venho em busca de um estágio ou trabalhos Freelancers.
-- 🌱 Atualmente estou indo para o 3°Semestre na Universide de Fortaleza(UNIFOR) cursando Análise e Desenvolvimento De Sistemas(ADS).
+- 🌱 Atualmente estou no 4°Semestre na Universide de Fortaleza(UNIFOR) cursando Análise e Desenvolvimento De Sistemas(ADS).
 - 📫 Você pode entrar em contato comigo através do meu email ou número de telefone [email: gustavoloboff@gmail.com] [telefone: 85992586718].
