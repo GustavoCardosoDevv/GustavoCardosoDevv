@@ -23,7 +23,13 @@ Aplicativo mobile para listagem e visualização de imóveis, desenvolvido com R
 
 ### UniMar
 Plataforma de aprendizagem gamificada desenvolvida em parceria com o Labomar, com o objetivo de ampliar o conhecimento sobre a área marinha entre alunos e demais pessoas interessadas.
+
 O projeto busca tornar o aprendizado mais acessível, interativo e organizado, oferecendo conteúdos e recursos voltados à educação ambiental, ciência marinha e conscientização sobre os oceanos, abrangendo principalmente informações sobre o mar de Fortaleza.
+
+### Mercadim
+Aplicação desenvolvida para simular uma plataforma de mercado digital, com foco na organização e exibição de produtos, navegação intuitiva e experiência simples para o usuário.
+
+O projeto trabalha conceitos de desenvolvimento web, estruturação de páginas, componentes reutilizáveis, organização de dados e criação de uma interface voltada para uso comercial.
 
 ## 🎯 Objetivo profissional
 
