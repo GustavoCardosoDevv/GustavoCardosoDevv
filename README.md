@@ -1,8 +1,8 @@
 # Olá, eu sou Gustavo Cardoso 👋
 
-Sou desenvolvedor júnior formado em Análise e Desenvolvimento de Sistemas pela UNIFOR, com foco em aplicações web e mobile.
+Sou desenvolvedor júnior formado em Análise e Desenvolvimento de Sistemas pela UNIFOR, com foco no desenvolvimento de aplicações web e mobile.
 
-Tenho experiência prática com React Native, Expo, Next.js, Node.js, TypeScript, Firebase, MySQL, Prisma e integração com APIs REST.
+Tenho experiência prática na criação de aplicações com React Native, Expo, Next.js, Node.js, TypeScript, Firebase, Supabase, MySQL, Prisma e integração com APIs REST.
 
 ## 🚀 Tecnologias
 
